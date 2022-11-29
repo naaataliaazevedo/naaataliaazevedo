@@ -1,4 +1,4 @@
-## Olá! Eu sou a Natália de Azevedo 😜
+## Olá! Eu sou a Natália de Azevedo!
 
 <div>
   <a href="https://github.com/naaataliaazevedo">
